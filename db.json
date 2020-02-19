@@ -1,22 +1,22 @@
 {
   "user": {
-    'uuid': 'ee272550-36e8-4fe2-889d-c1ee701c5863',
-    'name': 'Hortense',
-    'email': 'Hortense99.Jakubowski@yahoo.com',
-    'jobTitle': 'Project Manager',
-    'username': 'Hortense99',
-    'phone': '712.916.2569 x0663',
-    'avatar': 'https://s3.amazonaws.com/uifaces/faces/twitter/moscoz/128.jpg',
-    'address': {
-      'street': '9046 Allen Ferry',
-      'suite': 'Suite 429',
-      'city': 'Angushaven',
-      'state': 'Michigan',
-      'country': 'Costa Rica',
-      'zipcode': '92378-7065',
-      'geo': {
-        'lat': '78.1292',
-        'lng': '-134.6632'
+    "uuid": "ee272550-36e8-4fe2-889d-c1ee701c5863",
+    "name": "Hortense",
+    "email": "Hortense99.Jakubowski@yahoo.com",
+    "jobTitle": "Project Manager",
+    "username": "Hortense99",
+    "phone": "712.916.2569 x0663",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/moscoz/128.jpg",
+    "address": {
+      "street": "9046 Allen Ferry",
+      "suite": "Suite 429",
+      "city": "Angushaven",
+      "state": "Michigan",
+      "country": "Costa Rica",
+      "zipcode": "92378-7065",
+      "geo": {
+        "lat": "78.1292",
+        "lng": "-134.6632"
       }
     }
   },
