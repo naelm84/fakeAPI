@@ -1,4 +1,7 @@
 {
+  "layout": {
+    "test": "test"
+  },
   "user": {
     "uuid": "ee272550-36e8-4fe2-889d-c1ee701c5863",
     "name": "Hortense",
