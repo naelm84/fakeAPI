@@ -1,8 +1,16 @@
 {
   "page": {
     "view": [
-      "listing-users",
-      "listing-users"
+      {
+        "id": 1,
+        "order": 1,
+        "view": "listing-users"
+      },
+      {
+        "id": 2,
+        "order": 2,
+        "view": "listing-users"
+      }
     ] 
   },
   "users": [
