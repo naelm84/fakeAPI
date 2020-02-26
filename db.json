@@ -1,18 +1,4 @@
 {
-  "page": {
-    "views": [
-      {
-        "id": 1,
-        "order": 1,
-        "view": "listing-users"
-      },
-      {
-        "id": 2,
-        "order": 2,
-        "view": "listing-users"
-      }
-    ] 
-  },
   "users": [
     {"id": 1, "brand": "Volkswagen", "year": 2012, "color": "Orange", "vin": "dsad231ff"},
     {"id": 2, "brand": "Audi", "year": 2011, "color": "Black", "vin": "gwregre345"},
